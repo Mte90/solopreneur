@@ -98,4 +98,4 @@ This handbook is based on real stories from:
 
 ---
 
-*Generated from the Solopreneur Handbook - A Comprehensive Manual Based on 85 Real-World Sources*
+*Generated from the Solopreneur Handbook - A Comprehensive Manual Based on 85 Real-World Sources* with the help of *Regolo.AI*
