@@ -110,6 +110,35 @@ Use Claude to validate your idea in 10 minutes by asking the AI to challenge eve
 
 ---
 
+
+### AMA Case Studies: Discovery & MVP
+
+1. **Crisp.chat**: 2-person team scaled from $1M to $4M ARR in one year with 200K users. Free tier for one year, then $25/$95 pricing. Single-feature chatbox MVP validated discovery-first approach [1].
+
+2. **HelpKit**: Notion-based knowledge base SaaS hit $1,020 MRR in 5 months with 408 signups, 51 paying customers, 0% churn. No-code MVP proved demand [2].
+
+3. **Morflax**: Online 3D design platform attracted 12K signups, $17K revenue, $1.5K MRR. Single-feature focus drove traction [3].
+
+4. **$7K/month SaaS**: First attempt failed without customer conversation. Second SaaS reached $7K/mo with 160+ customers at $49, validating discovery importance [4].
+
+5. **First customer in 2 weeks**: Built in 2 weeks, 70+ trials, 6 calls, 1 paying customer at $19. Speed + conversation = revenue [5].
+
+6. **WaitListKit → CaptureKit → SocialKit**: Killed pre-sale product ($30/unit), pivoted to CaptureKit ($127 MRR, sold $15K), then SocialKit (~$2,200 MRR). Pre-sale validation prevents wrong builds [6].
+
+7. **7 failures before success**: After 7 failed SaaS attempts, succeeded with single gate: "does user pay?" Simple metric separated viable ideas [7].
+
+8. **Fake-door pivot**: 136 visits, 46% audit requests, pivoted pay-first to free-score, $2.90/user. Early metrics revealed pricing [8].
+
+**Sources:**
+[1] https://www.reddit.com/r/SaaS/comments/pj0uvb/we_bootstrapped_crispchat_as_a_2person_team_to_1m/
+[2] https://www.indiehackers.com/post/ama-my-bootstrapped-notion-2-knowledge-base-saas-just-hit-1000-mrr-fa954648a5
+[3] https://www.indiehackers.com/post/1-year-in-bootstrapped-my-online-3d-design-platform-to-1-5k-mrr-ama-05ec6edb8c
+[4] https://www.reddit.com/r/micro_saas/comments/1rk27cs/crossed_7kmo_with_my_second_saas_heres_what_i_did/
+[5] https://www.reddit.com/r/microsaas/comments/1sj1gck/i_went_from_0_to_my_first_paying_saas_customer_in/
+[6] https://www.reddit.com/r/indiehackers/comments/1s8wz28/my_saas_journey_so_far_numbers_wins_mistakes_and/
+[7] https://www.reddit.com/r/Solopreneur/comments/1rdvjy5/after_7_failures_i_finally_built_a_saas_that/
+[8] https://www.reddit.com/r/micro_saas/comments/1tx2dga/launched_my_first_solo_saas_yesterday_real/
+
 ## 6. Marketing and Distribution That Actually Works
 
 ### Why Distribution Is Harder Than Building
@@ -167,6 +196,35 @@ There are three primary strategies, each suited to a different type of product a
 ### Five Monetization Models
 
 The vibe-coding-for-dummies curriculum identifies five models suited to AI-assisted solopreneurs [49]:
+
+### AMA Case Studies: Launch & Competitive
+
+1. **OpenSpot**: 2K users in 14 days, 30K visits, 1.2K profiles, 1K waitlist. PH + HN traffic converted well [1].
+
+2. **Airstrip AI**: 1K signups in 1 day, 3-4K visits, #7 POTD. Mistake: no SEO day one [2].
+
+3. **Uneed**: T-14 coordination, 2K visits, 187 signups, 41 paying ($2.5K+), 13K total visits ~$4K [3].
+
+4. **Aidlab**: HN front 6K views, 500+ UV, 20% bounce, 0 conv, 4 inbound B2B. HN quality leads [4].
+
+5. **LangFast**: 6K visits, 200 trials, 80 signup, $0 design. Born from pricing teardown $6K/yr [5].
+
+6. **PostKing**: Reddit 42/100, PH+Peerlist 38/100 (19% conv), directories 0. Focus high-conversion [6].
+
+7. **DocsAlot**: PH #2, 638 visits, 34 signup, 0 paying. X/LinkedIn lift essential [7].
+
+8. **Prufa**: 49 Show HN audits: 78% critical findings, 38/49 analytics broken. QA before launch [8].
+
+**Sources:**
+[1] https://www.reddit.com/r/SideProject/comments/1jtko6q/2000_users_in_14_days_1_on_producthunt_and/
+[2] https://www.indiehackers.com/post/zero-to-1000-signups-in-1-day-c2e4783088
+[3] https://thomas-sanlis.com/p/uneed-community-launch-recap
+[4] https://www.indiehackers.com/post/front-page-of-hn-the-full-postmortem-traffic-lessons-surprises-cbe9e0a7f6
+[5] https://www.indiehackers.com/post/launched-on-hackernews-what-happened-and-what-i-learned-nflqqZoHttex6HhKkKTH
+[6] https://www.indiehackers.com/post/how-we-got-our-first-100-customers-for-postking-what-actually-worked-6804cNyTJjox3Im04JTL
+[7] https://www.indiehackers.com/post/we-launched-on-product-hunt-hit-2-and-got-34-signups-in-2-days-f81666fc39
+[8] https://prufa.dev/blog/engineering/we-audited-49-show-hn-launches/
+
 
 | Model | Example | Revenue Math |
 |-------|---------|--------------|
@@ -240,6 +298,38 @@ A popular r/SaaS post catalogued features that delight users [54]: dark mode, CS
 ## 9. Key Metrics That Actually Matter
 
 The founder who talked to 40 SaaS founders growing from $5K to $100K MRR identified metrics that successful founders track [55]. Vanity metrics like total signups are distractions [55].
+
+### AMA Case Studies: Pricing & Metrics
+
+1. **Dorik**: 4× price increase, -15% customers (est -50%), MRR x3. Higher prices filtered better [1].
+
+2. **Valentin**: $6 w/$150 CAC (25+ mo payback) → $29 (~5 mo) → $9/$29/$79. Iteration matches CAC [2].
+
+3. **$18K→$21.2K MRR**: $29→$39, $79→$99 in 90 days, +$3.2K MRR, ~4% churn. Strategic increases [3].
+
+4. **$50K MRR**: SEO+Ads with channel metrics. CAC per channel essential [4].
+
+5. **$20K LTD**: AppSumo LTD toward $50K goal. LTD capital must convert recurring [5].
+
+6. **PH #1 → $2K MRR**: 12.3K visits, 1K signups, 47 paying, 4.5% conv, 8% churn [6].
+
+7. **Grizzly Peak**: Sunday 40-50min review, 5 metrics Sheets, manual. Simple beats complex [7].
+
+8. **$99→$895 (800%)**: Steps $396→$100K revenue. Aggressive testing unlocks growth [8].
+
+9. **3K/mo "failing"**: 180 customers, 3 products, 4-6% churn, $2.6K net. WAU > gross [9].
+
+**Sources:**
+[1] https://www.indiehackers.com/post/experimented-with-a-4x-price-increase-and-it-was-the-best-decision-ever-7f1770cd69
+[2] https://www.indiehackers.com/post/we-changed-our-pricing-three-times-in-two-days-PGxmujHG4HWLr7Xy2CxE
+[3] https://www.operatorbook.dev/stories/raising-prices-existing-customers-18k-mrr-founder-diary
+[4] https://www.reddit.com/r/SaaS/comments/1mbilvk/i_bootstrapped_my_saas_to_50k_mrr_while_traveling/
+[5] https://www.reddit.com/r/SaaS/comments/1nhcagj/i_bootstrapped_3_companies_past_200k_mrr_now_im/
+[6] https://www.reddit.com/r/micro_saas/comments/1odmipx/we_hit_product_phunt_1_and_got_to_2k_mrr_in_3/
+[7] https://www.grizzlypeaksoftware.com/articles/p/indie-saas-metrics-dashboard-what-i-track-weekly-in-2026-IIDmr9
+[8] https://www.indiehackers.com/post/i-increased-my-prices-800-and-made-100k-in-revenue-ama-9ddfb4ee05
+[9] https://kapilpaliwal.hashnode.dev/why-my-saas-makes-3kmonth-but-still-feels-like-its-failing
+
 
 | Metric | Survival | Strong | Elite |
 |--------|----------|--------|-------|
